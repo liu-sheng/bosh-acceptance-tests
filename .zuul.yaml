@@ -1,0 +1,4 @@
+- project:
+    check:
+      jobs:
+        - bosh-acceptance-tests
